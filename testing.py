@@ -1,21 +1,3 @@
-# import time
-#
-# class Testing():
-#
-#     def __int__(self, timeout_time = None):
-#         self._timeout_time = timeout_time
-#
-#     def _recalculate_timeout(self):
-#         # self._last_found = time.time()
-#         # print("time: ",time.time())
-#         print(self)
-#
-#
-#     def print_time(self,timeout = 1000):
-#         self._recalculate_timeout(600)
-#         # self._f = self
-#         print("timeout: ",timeout)
-#         # print("self.f : ",self._f)
 # import argparse
 # import os
 #
