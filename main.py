@@ -84,13 +84,3 @@ for i in range(5):
     print("i , ", i)
 
 
-import testing
-# def print_hi(self,timeout = 1000):
-    # Use a breakpoint in the code line below to debug your script.
-    # print(f'Hi,')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-# if __name__ == '__main__':
-    # testing.Testing.print_time(600)
-
