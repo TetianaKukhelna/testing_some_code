@@ -84,14 +84,6 @@ for i in range(5):
     print("i , ", i)
 
 
-
-
-
-
-
-
-
-
 import testing
 # def print_hi(self,timeout = 1000):
     # Use a breakpoint in the code line below to debug your script.
