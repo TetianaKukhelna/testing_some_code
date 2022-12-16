@@ -53,10 +53,6 @@
 #     main(list_files)
 import os
 import time
-# daysnumber = 5
-# ddir = 'C:\\Users\\tetiana.kukhelna.HQ\\PycharmProjects\\testing_some_code\\testovaci_folder'
-# fpath = 'C:\\Users\\tetiana.kukhelna.HQ\\PycharmProjects\\testing_some_code\\testovaci_folder\\some_text_file'
-
 
 
 def old_files(ddir, daysnumber):
@@ -90,9 +86,3 @@ if __name__ == "__main__":
     daysnumber = 5
     ddir = 'C:\\Users\\tetiana.kukhelna.HQ\\PycharmProjects\\testovaci_folder'
     main(ddir,daysnumber)
-
-
-# print(os.stat(fpath).st_mtime)
-# print(time.time())
-# print((int(daysnumber) * 24 * 60 * 60))
-# print(time.time() - (int(daysnumber) * 24 * 60 * 60))
