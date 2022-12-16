@@ -1,7 +1,5 @@
 import datetime
 
-
-
 # start_time_by_user_contex: dict = []
 l = [1]
 # start_time_by_user_contex = dict.fromkeys(l)
